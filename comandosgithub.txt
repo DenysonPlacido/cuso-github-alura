@@ -22,6 +22,9 @@ git commit comandosgithub.txt - m "mais alteraçoes
 git push origin main
 
 
+git restore --source a0c893b .
+
+
 
 
 
