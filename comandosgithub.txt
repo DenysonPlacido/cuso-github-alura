@@ -15,4 +15,13 @@ git pull https://github.com/DenysonPlacido/cuso-github-alura.git
 #consulta status
 git status
 
+Confirma a alteraçao
 git commit comandosgithub.txt - m "mais alteraçoes
+
+#empurra a alteraçao para a origem
+git push origin main
+
+
+
+
+
