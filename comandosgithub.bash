@@ -1,0 +1,15 @@
+# COMANDOS GIT NO TERMINAL
+
+# apaga tudo na maquina e clona oq esta na github
+git clone //link do projeto  
+
+#traz a relaçao de alteraçoes
+git log 
+
+#traz a relaçao de alteraçoes por linha    
+git log --oneline
+
+#puxa(atualiza) os dados da maquina com do git hub
+git pull https://github.com/DenysonPlacido/cuso-github-alura.git
+
+# 
