@@ -12,4 +12,7 @@ git log --oneline
 #puxa(atualiza) os dados da maquina com do git hub
 git pull https://github.com/DenysonPlacido/cuso-github-alura.git
 
-# 
+#consulta status
+git status
+
+git commit comandosgithub.txt - m "mais alteraçoes
