@@ -1,3 +1,11 @@
+# Para rodar esse projeto na sua maquina, por favor digite:
+
+```
+node app.js
+```
+
+
+
 
 <p>Quick setup — if you’ve done this kind of thing before</p> 
 > or	
